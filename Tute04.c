@@ -37,10 +37,8 @@ int maximum(no1, no2)
     return no1;
   }
 }  
-/*int multiply(no1, no2);{
-
-/*}
-  return (no1 * no2); 
-}*/
+int multiply(no1, no2);{
+   return (no1 * no2); 
+}
 
 
